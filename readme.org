@@ -1,0 +1,24 @@
+#+TITLE: Segundo parcial
+
+* Segundo examen parcial INF 354
+
+Jesus Rodolfo Izurieta Veliz
+
+1. Generar una red neuronal (sin librerias) que utilice el daatset iris con
+   producto punto, errores, y de dos capas.
+
+2. Dado la función f(x) en excel realice al menos tres generaciones del
+   funcionamiento del algoritmo genético.
+
+3. Dado el siguiente grafo, Generar el archivo CSV, obtener el mejor recorrido
+   usando algoritmos genéticos sin el uso de DEAP.
+
+  [[./graph.png]]
+
+4. Con el uso de DEAP, resolver el anterior ejercicio.
+
+5. Generar un agente inteligente que diferencia dos cadenas de caracteres.
+
+Cada pregunta debe ser almacenada en Github o Colab o Kaagle, la misma permitir
+su acceso minimamente a msilva@fcpn.edu.bo. Adjuntar el link por pregunta en un
+PDF o Word y enviarlo para su revisión.

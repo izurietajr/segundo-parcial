@@ -1,10 +1,17 @@
-#+TITLE: Segundo parcial
+#+title: Segundo Parcial INF 354
+#+setupfile: ~/org/templates/tarea.org
+#+latex_header: \newcommand{\hleft}{Segundo Parcial INF 354}
+#+latex_header: \newcommand{\hright}{Jesus Rodolfo Izurieta Veliz}
+#+latex_header: \setlength{\parindent}{0em}
+
 
 * Segundo examen parcial INF 354
 
 Jesus Rodolfo Izurieta Veliz
 
-1. Generar una red neuronal (sin librerias) que utilice el daatset iris con
+*Repositorio:* https://github.com/izurietajr/segundo-parcial/tree/master
+
+1. Generar una red neuronal (sin librerias) que utilice el dataset iris con
    producto punto, errores, y de dos capas.
 
 2. Dado la función f(x) en excel realice al menos tres generaciones del
